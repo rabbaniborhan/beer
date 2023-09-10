@@ -25,3 +25,31 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.home{
+  background-image: url("../../public/homeBannerBeer.jpg");
+  background-size: cover;
+}
+
+.login{
+  background-image: url("../../public/banner.jpeg");
+  background-size: cover;
+}
+.sponser{
+  background-image: url("../../public/parallax1.jpg");
+  background-size: cover;
+ 
+}
+
+
+.beer{
+  background-image: url("../../public/banner3.jpeg");
+  background-size: cover;
+}
+
+#pricing{
+  background-image: url("../../public/parallax2.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
