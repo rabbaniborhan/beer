@@ -1,22 +1,34 @@
 # My Project Beer
 
-![Project Logo](https://example.com/project-logo.png)
+![Project Logo](https://ibb.co/jfFhr4L)
 
 ## Introduction
 
 Welcome to my awesome project! This README will help you get started and understand what this project is all about.
 
+## using technologies
+- NextJS Project
+- state management context api
+- style  Tailwind CSS
+- tailwind components daisyUi
+- react icons , React-hot-toast
+
+
+
 ## Features
 
-- Feature 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Feature 2: Proin nec urna vel nunc consectetur rhoncus.
-- Feature 3: Nulla facilisi. Sed vel efficitur urna.
+- Feature 1: Fake Login System use  context api.
+- Feature 2: infinite scroll  component data loading.
+- Feature 3: /beer route is private route.
+- Feature 4: mobile , tablet, and laptop full responsive.
 
-## Installation
 
-To get started with this project, follow these steps:
+## users
+- user 1 : username:user1 password: password1
+- user 2 : username:user2 password: password2
+- user 2 : username:user3 password: password3
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/your-project.git
+## Live link
+- https://beer-vert.vercel.app/
+
