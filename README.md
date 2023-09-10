@@ -1,6 +1,6 @@
 # My Project Beer
 
-![Project Logo](https://ibb.co/jfFhr4L)
+![Project Image]("./public/screencapture-beer-vert-vercel-app-2023-09-11-04_33_40.png")
 
 ## Introduction
 
