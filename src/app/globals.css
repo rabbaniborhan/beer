@@ -1,7 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
+@import "tailwindcss";
+@plugin "daisyui";
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -26,29 +24,26 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-
-.home{
+.home {
   background-image: url("../../public/homeBannerBeer.jpg");
   background-size: cover;
 }
 
-.login{
+.login {
   background-image: url("../../public/banner.jpeg");
   background-size: cover;
 }
-.sponser{
+.sponser {
   background-image: url("../../public/parallax1.jpg");
   background-size: cover;
- 
 }
 
-
-.beer{
+.beer {
   background-image: url("../../public/banner3.jpeg");
   background-size: cover;
 }
 
-#pricing{
+#pricing {
   background-image: url("../../public/parallax2.jpg");
   background-size: cover;
   background-attachment: fixed;

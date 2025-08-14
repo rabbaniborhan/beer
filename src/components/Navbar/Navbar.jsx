@@ -120,7 +120,7 @@ const Navbar = () => {
           ) : (
             <Link
               className="border border-yellow-500 rounded-lg py-2 px-4 mr-6 hover:bg-yellow-500 transition-all duration-500"
-              href="/login"
+              href="/"
             >
               Login
             </Link>
